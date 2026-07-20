@@ -18,7 +18,9 @@ The input must contain exactly two separators `/`, and the characters must appea
 
 ## Project Demo
 
-https://github.com/University-Projectz/Automata_Theory/assets/VisualizePDA.mp4
+
+https://github.com/user-attachments/assets/947d92a1-5a2b-4ee0-a020-55c3b534c762
+
 
 
 ### Interactive mode
