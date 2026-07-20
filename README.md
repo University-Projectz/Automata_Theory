@@ -16,6 +16,9 @@ The automaton processes the input left-to-right and uses two stacks:
 
 The input must contain exactly two separators `/`, and the characters must appear in the order `a.../b.../c...`.
 
+## Project Demo
+
+https://github.com/University-Projectz/Automata_Theory/assets/VisualizePDA.mp4
 
 
 ### Interactive mode
